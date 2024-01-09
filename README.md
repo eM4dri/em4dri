@@ -12,23 +12,23 @@ Notable for strong problem-solving skills and the ability to work effectively in
 
 ### Featured public projects
 
-##### [Webserv](https://github.com/eM4dri/42_webserv) (2023. GitHub Actions,C++, gTest)
+##### [Webserv (2023. GitHub Actions,C++, gTest)](https://github.com/eM4dri/42_webserv)
 - HTTP server using a configuration file like nginx
 - Handles HTTP GET, POST, PUT, and DELETE Request
 - Serves static files from a specified root directory or dynamic content using CGI.
 - TDD with unit testing using Google Test
 - Deployed following CI/CD using GitHub Actions
 
-##### [MiniRT](https://github.com/eM4dri/42_miniRT) (2022. C)
+##### [MiniRT (2022. C)](https://github.com/eM4dri/42_miniRT)
 - Introduction to raytracing using the MiniLibX library to generate computer-generated images.
 - Include representing scenes with geometric objects like plane, sphere, cylinder.
 - Displays effects multiple lights, shadows, ambient light, specular and phong reflections
 
-##### [Minishell](https://github.com/eM4dri/42_minishell) (2022. C)
+##### [Minishell (2022. C)](https://github.com/eM4dri/42_minishell)
 - Unix-like shell: a command interpreter inspired in bash.
 - Allows command execution, redirections and pipes.
 - Implements its own builtins: env, export, cd, echo and unset.
 
-##### [So_long](https://github.com/eM4dri/42_so_long) (2021. C)
+##### [So_long (2021. C)](https://github.com/eM4dri/42_so_long)
 - 2D game rendered using the MiniLibX graphics library.
 - Several modes o visualization includin fake3D
